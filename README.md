@@ -8,4 +8,4 @@ I have learned outside of school or work.
 
 Check out some of my project and I am more then happy to awnser any questions och feedback (see contact info bellow).
 
-##My projects
+## My projects
